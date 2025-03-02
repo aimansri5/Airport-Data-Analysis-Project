@@ -1,1 +1,16 @@
+Data Cleaning In Microsoft Excel
+1. Handle Missing Values
+Replace NaN in continent_code, country_code, region_code with 'UNKNOWN' to maintain consistency.
+Fill missing iata_code and gps_identifier with 'N/A' since not all airports have these.
+Drop rows where name, latitude, or longitude is missing (critical fields).
 
+2. Convert Data Types
+Ensure latitude & longitude are stored as FLOAT.
+Convert elevation_ft to INTEGER.
+Standardize has_scheduled_service to 'YES' or 'NO'.
+
+3. Remove Duplicates
+Drop duplicate rows based on airport_id (ident), name, and location (latitude, longitude).
+
+4. Standardize Text Formatting
+Convert all text columns (e.g., airport_name, city, country_code) to UPPERCASE for consistency.
