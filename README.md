@@ -7,13 +7,29 @@ This project analyzes airport data using **Microsoft SQL Server Management Studi
 ```plaintext
 📂 Airport-Data-Analysis
 │── 📁 data/                     # Dataset storage
-│   ├── airports.xlsx            # Raw dataset
-│── 📁 sql_queries/              # SQL scripts for database setup & analysis
-│   ├── create_tables.sql        # Creates database & tables
-│   ├── data_cleaning.sql        # Cleans and preprocesses data
-│   ├── exploratory_analysis.sql # SQL queries for insights
+│── 📁 sql_queries/              # SQL queries for analysis
 │── 📁 powerbi_dashboard/        # Power BI dashboard
-│   ├── Airport_Analysis.pbix    # Power BI file
-│   ├── dashboard_screenshots/   # Screenshots for README
 │── 📜 README.md                 # Project documentation
 │── 📜 .gitignore                # Ignore unnecessary files
+
+🛠️ Setup & Execution
+
+1. Import data
+
+- 
+Data Cleaning In Microsoft Excel
+1. Handle Missing Values
+Replace NaN in continent_code, country_code, region_code with 'UNKNOWN' to maintain consistency.
+Fill missing iata_code and gps_identifier with 'N/A' since not all airports have these.
+Drop rows where name, latitude, or longitude is missing (critical fields).
+
+2. Convert Data Types
+Ensure latitude & longitude are stored as FLOAT.
+Convert elevation_ft to INTEGER.
+Standardize has_scheduled_service to 'YES' or 'NO'.
+
+3. Remove Duplicates
+Drop duplicate rows based on airport_id (ident), name, and location (latitude, longitude).
+
+4. Standardize Text Formatting
+Convert all text columns (e.g., airport_name, city, country_code) to UPPERCASE for consistency.
