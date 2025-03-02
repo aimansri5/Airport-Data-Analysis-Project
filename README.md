@@ -1,6 +1,6 @@
 # Airport Data Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes airport data using **Microsoft SQL Server Management Studio (SSMS 20)** and visualizes insights in **Power BI**. The dataset (`airports.xlsx`) contains details about global airports, including type, location, elevation, and scheduled services.
 
 ## 📂 Project Structure
