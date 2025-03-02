@@ -12,12 +12,11 @@ This project analyzes airport data using **Microsoft SQL Server Management Studi
 │── 📜 README.md                 # Project documentation
 │── 📜 .gitignore                # Ignore unnecessary files
 
-🛠️ Setup & Execution
+## 🛠️ Setup & Execution
 
 1. Import data
 
-- The data that I will be using for this project is an open source data from OurAirports ("https://ourairports.com/data/")
-
+- The data that I will be using for this project is an open source data from [OurAirports]([url](https://ourairports.com/data/)) 
 2. Data Cleaning & Preprocessing In Microsoft Excel
 1. Handle Missing Values
 Replace NaN in continent_code, country_code, region_code with 'UNKNOWN' to maintain consistency.
