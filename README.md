@@ -7,15 +7,9 @@ This project analyzes airport data using **Microsoft Excel** & **Microsoft SQL S
 
 📂 Airport-Data-Analysis
 ```
- │── 📁 data/                     # Dataset storage
-\-│   ├── airports.xlsx            # Raw dataset
-\-│── 📁 sql_queries/              # SQL scripts for database setup & analysis
-\-│   ├── create_tables.sql        # Creates database & tables
-│   ├── data_cleaning.sql        # Cleans and preprocesses data
-│   ├── exploratory_analysis.sql # SQL queries for insights
+│── 📁 data/                     # Dataset storage
+│── 📁 sql_queries/              # SQL queries for database setup & analysis
 │── 📁 powerbi_dashboard/        # Power BI dashboard
-│   ├── Airport_Analysis.pbix    # Power BI file
-│   ├── dashboard_screenshots/   # Screenshots for README
 │── 📜 README.md                 # Project documentation
 │── 📜 .gitignore                # Ignore unnecessary files
 ```
