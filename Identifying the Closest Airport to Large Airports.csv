@@ -1,0 +1,482 @@
+regional_airport,nearest_airport,distance_km
+Boryspil International Airport,Gogoliv Airfield,21.77982241
+Lviv International Airport,Tsuniv Airfield,19.20681139
+Pulkovo Airport,Heli-Drive,3.136912184
+Minsk National Airport,Lipki Air Base,21.88173324
+Krasnoyarsk International Airport,Krasnoyarsk Cheremshanka Airport,3.345771137
+Novosibirsk Tolmachevo Airport,Gorodskoy Aeroport Airfield,20.35446423
+Platov International Airport,Rostov-on-Don Airport,27.40917986
+Sochi International Airport,Krasnaya Polyana Heliport,32.26316393
+Newark Liberty International Airport,Port Newark Helistop,1.868067722
+Fort Lauderdale Hollywood International Airport,Broward Health Medical Center Heliport,3.632218251
+Skopje International Airport,Former Skopje Airport,12.50732936
+Gibraltar Airport,La Línea de la Concepción District Hospital Heliport,2.672516617
+Belgrade Nikola Tesla Airport,Surčin Airstrip,5.516306462
+Podgorica Airport / Podgorica Golubovci Airbase,Ćemovsko Polje / Špiro Mugoša Airfield,7.690048049
+M. R. Štefánik Airport,Vajnory Slovaki Airfield,4.109084837
+Providenciales International Airport,Pine Cay Airport,21.5102736
+Casa De Campo International Airport,La Romana Batey Cacata airport,3.096898916
+Ürümqi Diwopu International Airport,Ürümqi Yaxin General Airport,28.77273189
+Changchun Longjia International Airport,Changchun East Airport,25.41257452
+Harbin Taiping International Airport,Wanggang Airfield,21.77966208
+Dalian Zhoushuizi International Airport,Dalian Yingchenzi/Xinzhaizi Air Base,13.76909505
+Shenyang Taoxian International Airport,Shenyang Dongta Airport,16.11495579
+El Dorado International Airport,Hospital De Engativa Heliport,4.209038377
+Edmonton International Airport,Edmonton / Leduc Heliport,6.759612993
+Halifax / Stanfield International Airport,Fall River Water Aerodrome,15.00200322
+Ottawa Macdonald-Cartier International Airport,Ottawa (Civic Hospital) Heliport,8.657102129
+Quebec Jean Lesage International Airport,Capitale Hélicoptère Heliport,1.816655773
+Faa'a International Airport,Moorea Temae Airport,17.8848584
+Bauerfield International Airport,Forari Airport,21.92714548
+Auckland International Airport,Middlemore Hospital Helipad,7.534704138
+Christchurch International Airport,Garden City Heliport,1.3621459
+Malé International Airport,Biyadoo Island,30.89142932
+Don Mueang International Airport,Thung Si Kan Airport,5.091898383
+Suvarnabhumi Airport,Ram Inthra Police Heliport,23.38549891
+Chiang Mai International Airport,Chiang Mai Airsports,17.90371783
+Phuket International Airport,Skydance Helipad,4.267057639
+Noi Bai International Airport,Gia Lam Air Base,21.69948919
+Tan Son Nhat International Airport,Binh Duong Airport,20.61989195
+Mandalay International Airport,Chanmyathazi Airport,28.89788972
+Yangon International Airport,Hmawbi Air Base,24.33390801
+Hasanuddin International Airport,Garongkong Heliport,76.47797885
+Denpasar I Gusti Ngurah Rai International Airport,Discovery Kartika Plaza Heliport,2.237457677
+Washington Dulles International Airport,Stonesprings Heliport,7.395756785
+George Bush Intercontinental Houston Airport,Papa Heliport,1.279369927
+Punta Cana International Airport,Baigua Airport,32.55430948
+Las Américas International Airport,Boca Chica Airport,8.383714072
+La Aurora Airport,Jayabaj Airport,53.7228964
+Norman Manley International Airport,Up-Park Camp Heliport,5.971927936
+Viru Viru International Airport,Collpa Airport,9.802385743
+Johan Adolf Pengel International Airport,Zorg en Hoop Airport,39.84313481
+Montreal / Pierre Elliott Trudeau International Airport,Cartierville Airport,5.788162581
+Vancouver International Airport,Canadian Coast Guard Base Sea Island Heliport,1.427213972
+Winnipeg / James Armstrong Richardson International Airport,Health Sciences Centre Helipad,6.003099002
+Calgary International Airport,Calgary (Peter Lougheed Centre) Heliport,4.76711441
+St. John's International Airport,St. John's (Universal) Heliport,2.182835355
+Toronto Lester B. Pearson International Airport,Tarten Heliport,3.393178286
+Wellington International Airport,Wellington Hospital Heliport,3.02114847
+Bahrain International Airport,King Hamad University Hospital Helipad,3.568752146
+King Fahd International Airport,Prince Sultan College Heliport,27.04824579
+King Abdulaziz Air Base,King Fahd Military Medical City Heliport,14.33664416
+King Abdulaziz International Airport,GSAC Jeddah,18.37731818
+Prince Mohammad Bin Abdulaziz Airport,Bosporus Hotel,14.24455924
+King Khaled International Airport,Residential Helipad,7.088366501
+Jorge Newbery Airpark,Dines (Doctor E. Escudero) Heliport,2.033373048
+Minister Pistarini International Airport,Monte Grande Airport,4.404042282
+Indianapolis International Airport,Allison Plant 8 Heliport,7.715476506
+Jacksonville International Airport,UF Health North Heliport,5.440774227
+John F Kennedy International Airport,Rockaway Airport,4.214362334
+Harry Reid International Airport,Claude I. Howard Heliport,2.17344686
+Los Angeles International Airport,Sheraton Gateway Los Angeles Hotel Helipad,1.6298759
+LaGuardia Airport,Edo Seaplane Base,0.87488929
+Kansas City International Airport,Executive Hills Polo Club Heliport,4.124335847
+Orlando International Airport,Lake Conway South Seaplane Base,5.136104728
+Chicago Midway International Airport,Rose Packing County Heliport,2.190244293
+Memphis International Airport,Le Bonheur Medical Center Heliport,7.004642402
+Seychelles International Airport,Sainte Anne Helipad,7.090297753
+N'Djamena International Airport,Bol-Berim Airport,149.116676
+Robert Gabriel Mugabe International Airport,Langford Airport,15.1077415
+Hosea Kutako International Airport,Otjihaenena Landing Strip,37.40343866
+Ndjili International Airport,Ndolo Airport,14.5512163
+Cozumel International Airport,Base No. 4 de la Fuerza Aérea Mexicana (General Eduardo Aldasoro Suárez),1.190876965
+General Guadalupe Victoria International Airport,Las Praderas Airport,13.34896756
+Guadalajara International Airport,The Westin Heliport,16.64387886
+Manuel Crescencio Rejón International Airport,Base Nº8 de la Fuerza Aérea Mexicana,0.669169447
+Benito Juárez International Airport,Helipuerto Ciudad de México,0.742262123
+Monterrey International Airport,Torrey Heliport,11.54720703
+General Rafael Buelna International Airport,Mazfly S.C. Airport,11.59066707
+Puerto Vallarta International Airport,Marina  Vallarta Heliport,3.15297086
+Los Cabos International Airport,Cabo Real Heliport,18.2412481
+General Felipe Ángeles International Airport,Base N°1 de la Fuerza Aérea Mexicana (General Alfredo Lezama Álvarez),2.432901057
+General Abelardo L. Rodriguez International Airport,Brown Field Municipal Airport,3.637213821
+Cancún International Airport,Aeródromo Viento y Sol,8.345768735
+Tocumen International Airport,La Joya Airport,17.41802101
+Dortheys Hiyo Eluay International Airport,Cyclops Airfield,0.930499848
+Sultan Aji Muhammad Sulaiman Sepinggan International Airport,balikpapan helipad,9.009615528
+Juanda International Airport,Tanjung Perak Airport,19.74895888
+Brunei International Airport,RIPAS Hospital Heliport,5.490967008
+Soekarno-Hatta International Airport,Budiarto Airport,20.92097128
+Kualanamu International Airport,Soewondo Air Force Base,23.71146914
+Kuala Lumpur International Airport,Kaya88 Malaysia,1.148640062
+Houari Boumediene Airport,Algiers Great Mosque Heliport,7.73436108
+Imam Khomeini International Airport,Amuk-e-pāyin Military Helipad,11.93191829
+Mehrabad International Airport,Ghale Morghi Airport,7.831931334
+Mashhad International Airport,Neyshabur Gliderport,66.02700086
+Shiraz Shahid Dastghaib International Airport,Zarqan Airport,25.98356325
+Queen Alia International Airport,Highway H Highway Strip,22.68100436
+Kuwait International Airport,Police Officers Club Heliport,14.65012797
+Beirut Rafic Hariri International Airport,Al Sahel Hospital Helipad,4.378070989
+Duqm International Airport,Ja'Aluni Airport,34.29093471
+Val de Cans/Júlio Cezar Ribeiro International Airport,Belém/Brigadeiro Protásio de Oliveira Airport,4.375632176
+Presidente Juscelino Kubitschek International Airport,Home Hospital Helipad,3.933823532
+Tancredo Neves International Airport,Mercado Internacional Heliport,6.087039059
+Eduardo Gomes International Airport,Flores Airport,4.90478638
+Hercílio Luz International Airport,Batalhão de Operações Aéreas do CBMSC Heliport,6.661834949
+Pinto Martins International Airport,Instituto Dr. José Frota Helipad,4.606203075
+Rio Galeão – Tom Jobim International Airport,Cargo Park Heliport,3.497290379
+Guarulhos - Governador André Franco Montoro International Airport,Caio - Induscar Indústria e Comércio de Carrocerias Ltda Heliport,2.217802804
+Porto Seguro Airport,Dr. Rudolf Imanuel Schneider Heliport,0.376811377
+Miami International Airport,Pan American Field,1.892375818
+General Mitchell International Airport,General Mitchell Intl Heliport,1.087887395
+Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field,Mandarin Yen So Heliport,7.410255084
+Louis Armstrong New Orleans International Airport,Louisiana State Police Troop B Helipad Heliport,2.648173636
+San Francisco Bay Oakland International Airport,US Coast Guard Base Alameda Helipad,7.770096498
+Will Rogers World Airport,Integris Southwest Medical Center Heliport,6.776621452
+Eppley Airfield,Jennie Edmundson Hospital Heliport,6.199252958
+Ontario International Airport,San Antonio Regional Hospital Heliport,6.126743335
+Chicago O'Hare International Airport,Ravenswood Airport,4.06543718
+Norfolk International Airport,Sentara Leigh Hospital Heliport,4.977973092
+Deputado Luiz Eduardo Magalhães International Airport,Itamar Musse Heliport,3.822564388
+Eurico de Aguiar Salles Airport,Vitória Apart Hospital Heliport,2.426564746
+Comodoro Arturo Merino Benítez International Airport,Lan Courier Heliport,3.425176478
+Modibo Keita International Airport,Faladie Airport,80.23626713
+Guanacaste Airport,La Flor Airport,6.426803965
+Monseñor Óscar Arnulfo Romero International Airport,Las Cachas Airport,14.94731896
+Toussaint Louverture International Airport,Chancerelles Airport / Bowen Field,4.28197403
+Cayenne – Félix Eboué Airport,Rosemond Hospital Helipad,12.22909468
+Jorge Chávez International Airport,Collique Airport,11.87005086
+Alejandro Velasco Astete International Airport,Chinchero International Airport (under construction),21.33884266
+Singapore Changi Airport,Changi Air Base (East),1.798053715
+Zayed International Airport,Yas Island Seaplane Base,4.924520636
+Dubai International Airport,Dubai Creek SPB,3.522116068
+Al Maktoum International Airport,Jebel Ali Naval Base Heliport,16.37848346
+Sharjah International Airport,Sharjah Police Heliport,5.526343864
+Muscat International Airport,Armed Forces Beach Club Helipad,4.982342627
+Islamabad International Airport,Feteh Jang Airfield,17.97480563
+Jinnah International Airport,Chota Malir Airstrips,4.99104108
+Allama Iqbal International Airport,Walton Airport,6.171062174
+Baghdad International Airport / New Al Muthana Air Base,Al-Faw Palace Heliport,2.830182471
+Damascus International Airport,Marj al-Sultan Heliport (South),9.202446673
+Hamad International Airport,Banana Island Helipad,4.085490293
+Palm Beach International Airport,The Murphy Company Heliport,3.832253568
+Portland International Airport,Southwest Washington Medical Center Heliport,4.063054406
+Philadelphia International Airport,S & C Distribution Center Heliport,1.333574472
+Phoenix Sky Harbor International Airport,Saguaro Airport,1.801520341
+Pittsburgh International Airport,Lenzner Farm Airport,11.09239648
+Theodore Francis Green State Airport,Kent County Memorial Hospital Heliport,4.787504868
+Portland International Jetport,Maine Medical Center Heliport,2.74253022
+Kotoka International Airport,37 Military Hospital Helipad,2.483463519
+José Martí International Airport,San Pedro Highway Airstrip,6.506702348
+Juan Gualberto Gomez International Airport,Matanzas Airport,8.11181986
+Owen Roberts International Airport,Cayman Helicopters Heliport,2.895524375
+Brisbane International Airport,Eagle Farm Airport,4.517538176
+Honiara International Airport,Tulaghi Heliport,37.05289278
+Ted Stevens Anchorage International Airport,Lake Hood Seaplane Base,1.107530401
+Nnamdi Azikiwe International Airport,Moshood Abiola National Stadium Helipad,20.88017444
+Murtala Muhammed International Airport,Maryland Heliport,5.029488868
+Diori Hamani International Airport,Ouallam Airport,97.96855745
+Tunis Carthage International Airport,Carthage Presidential Palace Heliport,9.807030951
+Brussels Airport,Melsbroek Air Base,1.41329423
+Carrasco General Cesáreo L. Berisso International Airport,Cumbres de Carrasco Airport,9.991756196
+General José Antonio Anzoategui International Airport,Muelle Seco  Heliport,15.3724335
+Banjul International Airport,Abéné Airfield,37.22042464
+Berlin Brandenburg Airport,Berlin-Schönefeld Airport,2.46845836
+Frankfurt Airport,Höchst Industrial Park Helipad,6.779202061
+Hamburg Helmut Schmidt Airport,University of Hamburg Medical Center Eppendorf Helipad,4.425064896
+Cologne Bonn Airport,Porz am Rhein Hospital Heliport,7.042510425
+Düsseldorf Airport,Düsseldorf-Wolfsaap Glider Field,6.648732742
+Munich Airport,Freising Clinic Heliport,6.427539411
+Nuremberg Airport,Nürnberg North Hospital Heliport,4.106111758
+Leipzig/Halle Airport,Helios Clinic Schkeuditz Heliport,2.82617734
+Stuttgart Airport,Kelley Barracks Helipad,4.617149509
+Hannover Airport,Fresh Breeze UL,7.089913693
+Antonio B. Won Pat International Airport,Big Eye Heliport,1.901652991
+Fuerteventura Airport,Jarde Airport,13.5128248
+Gran Canaria Airport,El Berriel Aeroc Airport,20.40945819
+César Manrique-Lanzarote Airport,Devils of the Air RC Model Club Airport,9.719547078
+Tenerife Sur Airport,Adeje Heliport,18.91919328
+Lungi International Airport,Mammy Yoko Heliport,17.17514205
+Roberts International Airport,Spriggs Payne Airport,44.24364753
+Al Massira Airport,Inezgane Airport,14.45712122
+Fes Saïss International Airport,Fes Sefrou Airport,9.057029891
+Rabat-Salé Airport,Kenitra Air Base,31.01292515
+Mohammed V International Airport,Anfa Airport,21.69624667
+Menara Airport,Sidi Zouine Airport,29.68934196
+Tangier Ibn Battuta Airport,Camarinal Helicopter Base,40.57999529
+Blaise Diagne International Airport,Thiès Airport,20.24444752
+Nouakchott–Oumtounsy International Airport,Nouakchott International Airport,23.73338143
+Amílcar Cabral International Airport,Rabil Airport,67.57067724
+Nelson Mandela International Airport,Maio Airport,37.64776351
+Lennart Meri Tallinn Airport,Lasnamäe Airfield,4.440094233
+Helsinki Vantaa Airport,Peijaksen Hospital Heliport,5.551077242
+Belfast International Airport,RAF Nutts Corner / Belfast-Nutts Corner Airport,4.969386824
+Birmingham Airport,Castle Bromwich Aerodrome/RAF Castle Bromwich,7.511535764
+Manchester Airport,Wythenshawe Hospital Helipad,4.392475213
+London Luton Airport,Rush Green Airstrip,8.861028438
+Raleigh Durham International Airport,UNC Rex Hospital Helipad,10.05185301
+Richmond International Airport,VCU Health System-Main Hospital Heliport,10.41665638
+Reno Tahoe International Airport,Remsa/Care Flight Heliport,1.388870849
+Southwest Florida International Airport,MP25 Heliport,9.105481701
+San Diego International Airport,USCG San Diego Heliport,1.137440895
+San Antonio International Airport,G W Heliport,3.090366726
+Savannah Hilton Head International Airport,Hyatt Regency Hotel Heliport,11.5929999
+Louisville Muhammad Ali International Airport,Switch Pad Heliport,3.151837081
+Seattle–Tacoma International Airport,Tukwila Operations Center Heliport,4.780827243
+Orlando Sanford International Airport,Sanford Seaplane Base,5.619563394
+San Francisco International Airport,Coast Guard Air Station San Francisco,1.88973101
+Norman Y. Mineta San Jose International Airport,Flea Port Heliport,4.520418727
+Salt Lake City International Airport,Salt Lake City Mosquito Abatement Heliport,3.578320793
+Sacramento International Airport,Holtsmans Airport,5.841399592
+John Wayne Orange County International Airport,Manclark Airway Heliport,0.484243747
+Sarasota Bradenton International Airport,Sarasota Dept Of Fire-Rescue East Side Heliport,8.429129438
+St. Louis Lambert International Airport,SSM Health Depaul Hospital-St. Louis Heliport,5.424740206
+Simón Bolívar International Airport,Caribe (Simón Bolívar Internacional)  Heliport,0.674721767
+Daniel K Inouye International Airport,Seabase Pier Helipad,1.208404101
+Kahului International Airport,Kahului Heliport,0.83342853
+José Joaquín de Olmedo International Airport,Canal Uno Heliport,1.73693287
+Mariscal Sucre International Airport,Ascazubi Airport,9.173883452
+Silvio Pettirossi International Airport,Helipuerto Hangar Latitude,0.959605302
+Lieutenant Amin Ayub González International Airport,"Base de la Fuerza Aérea Paraguaya ""Teniente Amín Ayub González""",0.904481593
+Guaraní International Airport,"Base de la Fuerza Aérea Paraguaya ""Guaraní""",0.609215911
+Doctor Luis Maria Argaña International Airport,"Base de la Fuerza Aérea Paraguaya ""Dr. Luis María Argaña""",1.930091379
+Addis Ababa Bole International Airport,African Union Heliport,6.683893303
+Djibouti-Ambouli Airport,Military Helipads (5x),0.296949326
+Cairo International Airport,Almaza Air Force Base,4.183445834
+Hurghada International Airport,El Gouna Private Airport,24.52425796
+Suhaj Mubarak International Airport,El Maragha Heliport,44.49862673
+Sharm El Sheikh International Airport,Multinational Force and Observers South Camp Heliport,11.32803048
+Juba International Airport,Luri Airport,22.87968237
+Jomo Kenyatta International Airport,Embakasi Airport,2.705352524
+Moi International Airport,Bamburi Airport,16.21567993
+Mitiga International Airport,Tripoli International Airport,28.09683762
+London Gatwick Airport,Redhill Aerodrome,8.115404343
+London Heathrow Airport,Heston Aerodrome,5.268756973
+Glasgow International Airport,Clyde Heliport,6.250928178
+Edinburgh Airport,RAF Kirknewton Air Base,8.343805249
+London Stansted Airport,RAF Great Dunmow,5.270583919
+Amsterdam Airport Schiphol,VU University Medical Center Heliport,7.073607588
+Eindhoven Airport,Maxima Medisch Centrum Heliport,5.913296392
+Dublin Airport,Knocksedan Heliport,2.854460092
+Shannon Airport,Coonagh Aerodrome,16.84820668
+Billund Airport,Vandel Air Base,5.227639267
+Copenhagen Kastrup Airport,København Vandflyveplads,8.872115508
+Syracuse Hancock International Airport,St. Joseph's Hospital Heliport,7.168559236
+Tampa International Airport,L M Hughey Heliport,3.797770975
+Tulsa International Airport,Harvey Young Airport,8.701189305
+Kigali International Airport,Bugesera International Airport (under construction),20.14703508
+Khartoum International Airport,Muhandiseen Military Hospital Heliport,7.807264044
+Julius Nyerere International Airport,Ras Kutani Airport,32.67508284
+Abeid Amani Karume International Airport,Sanzale Airport,47.14941889
+Entebbe International Airport,Kajjansi Airfield,21.04702491
+Luxembourg-Findel International Airport,Kirchberg Hospital Heliport,2.222443893
+"Bergen Airport, Flesland",Hovland Hovedgaard Heliport,3.751335923
+"Oslo Airport, Gardermoen",LHL Gardermoen Hospital Heliport,4.800050458
+"Tromsø Airport, Langnes",Northern Norway University Hospital Heliport,2.541285218
+"Trondheim Airport, Værnes",Frosta Airfield,16.44050078
+"Stavanger Airport, Sola","Sola Sjø, Sømmevågen",2.508760967
+Gdańsk Lech Wałęsa Airport,Gdańsk-Wrzeszcz Air Base,9.062268306
+Kraków John Paul II International Airport,Szczodrkowice Private Airstrip,14.52742389
+Warsaw Chopin Airport,Warsaw Babice Airport,12.2106554
+Melbourne International Airport,Melbourne Essendon Airport,8.0039812
+Adelaide International Airport,Royal Adelaide Hospital Helipad,5.658478761
+Darwin International Airport / RAAF Darwin,Royal Darwin Hospital Helipad,6.908576669
+Perth International Airport,Crown Towers Heliport,7.23441705
+Tirana International Airport Mother Teresa,University Trauma Hospital Heliport,10.0539647
+Burgas Airport,Bata Airfield,18.33812153
+Sofia Airport,Sveta Anna Hospital Heliport,5.435966212
+Varna Airport,Chayka Naval Air Base,5.23617439
+Larnaca International Airport,K.A.A.Y. Kitiou Helipad,1.590769058
+Zagreb Franjo Tuđman International Airport,Dubrava Clinical Hospital Heliport,10.80605262
+Alicante-Elche Miguel Hernández Airport,Muchamiel Airfield,19.03805181
+Martinique Aimé Césaire International Airport,Bellefontaine Heliport,18.72930233
+Guadeloupe - Maryse Condé International Airport,Guadeloupe University Hospital Heliport,3.349600155
+Luis Munoz Marin International Airport,Prasa-Barbosa Heliport,5.248253494
+Hewanorra International Airport,George F. L. Charles Airport,32.20812837
+Queen Beatrix International Airport,Savaneta Field,8.660139834
+Flamingo International Airport,Old Flamingo Airport,6.169710658
+Hato International Airport,Flamingo International Airport,75.41964645
+Princess Juliana International Airport,Marigot Seaplane Base,3.933566189
+Dhoho International Airport,Iswahyudi Airport,58.49986196
+Göteborg Landvetter Airport,Sahlgrenska University East Hospital Helipad,15.23022776
+Stockholm-Arlanda Airport,Stockholm - Hova,8.928682123
+Josep Tarradellas Barcelona-El Prat Airport,Ciudad Sanitaria y Universitaria de Bellvitge Heliport,5.875416624
+Ibiza Airport,Hospital Can Misses Heliport,6.376995847
+Adolfo Suárez Madrid–Barajas Airport,Henares Hospital Heliport,6.366743287
+Málaga-Costa del Sol Airport,Base BRICA de Cártama,18.72312414
+Palma de Mallorca Airport,Son Bonet Airfield,6.089382946
+Santiago-Rosalía de Castro Airport,Silleda Fire Base Heliport,27.40656628
+Bordeaux-Mérignac Airport,Bordeaux Haut Leveque Centre Hospitalier Heliport,6.443833546
+Toulouse-Blagnac Airport,Toulouse University Purpan Hospital Heliport,3.407948827
+Port Moresby Jacksons International Airport,Berry Airfield,6.667226976
+Sydney Kingsford Smith International Airport,St George Hospital Helipad,4.683405174
+Kaohsiung International Airport,Kaohsiung Armed Forces General Hospital Heliport,5.532728073
+Taiwan Taoyuan International Airport,Taoyuan Air Base,2.727545356
+Narita International Airport,IJHW Narita Hospital Heliport,3.263935697
+Kansai International Airport,Izumisano Airfield,7.45323798
+New Chitose Airport,JASDF Chitose Air Base,3.017769788
+Fukuoka Airport,Japan Red Cross Fukuoka Hospital Helipad,3.759097663
+Kagoshima Airport,Hamacho Heliport,26.53181301
+Chubu Centrair International Airport,Shinmaiko Seaplane Base,10.47963448
+Osaka International Airport,Senri Chuo River Garden North Helipad,5.302563393
+Sendai Airport,Sendai City Hospital Helipad,10.55648387
+Tokyo Haneda International Airport,Sanbonyoshi Seaplane Base,2.24140511
+Yokota Air Base,Toko Gliderfield,5.155362406
+Lynden Pindling International Airport,Oakes Field-Nassau,11.55666554
+Riga International Airport,Spilve Aerodrome,9.79903547
+Vilnius International Airport,Kyviškes Airfield,15.27716542
+Cape Town International Airport,Wingfield Air Base,9.197683376
+King Shaka International Airport,Netcare uMhlanga Hospital Helipad,13.50494163
+Lyon Saint-Exupéry Airport,Lyon Bron Airport,11.34648448
+Marseille Provence Airport,Berre/Marignane Seaplane Base,0.7629581
+Nice-Côte d'Azur Airport,Hôpital Lenval Heliport,4.027546173
+Charles de Gaulle International Airport,Robert Ballanger Intercommunal Hospital Heliport,6.805377906
+Paris-Orly Airport,Bicêtre Hospital Heliport,9.732285368
+EuroAirport Basel-Mulhouse-Freiburg,Messe Basel Emergency Heliport,7.307212412
+Athens Eleftherios Venizelos International Airport,Superior Air Helipad,3.795941357
+Heraklion International Nikos Kazantzakis Airport,Kasteli Airport,21.14500091
+Thessaloniki Macedonia International Airport,Sedes Air Base,4.919307983
+Budapest Liszt Ferenc International Airport,Mátyásföldi Heliport,9.121668005
+Bari Karol Wojtyła International Airport,Bari Fire Department Heliport,0.484494422
+Brindisi Airport,Eliporto Leanorado SPA confindustria,2.751923569
+Catania-Fontanarossa Airport,Sigonella Navy Air Base,14.63076699
+Falcone–Borsellino Airport,Palermo-Boccadifalco Airport,20.74813587
+Cagliari Elmas Airport,Aviosuperficie Amici dell'Aria,11.64500707
+Milan Malpensa International Airport,Cascina Costa Agusta Heliport,1.004123059
+Milan Bergamo Airport / Antonio Locatelli Air Base,Valbrembo Airfield,10.48827315
+Turin Airport,Venaria Reale Mario Santi Airfield,8.393983521
+Koltsovo Airport,Uktus Airport,4.668325739
+Ashgabat International Airport,Emergency Medical Center Rooftop Helipad,4.404399344
+Tashkent International Airport,Tashkent Sergeli Airport,7.35611945
+Zhukovsky International Airport,Vera Helipad,7.45133779
+Domodedovo International Airport,Grachi Helipad,10.92325623
+Sheremetyevo International Airport,Burevestnik Yacht-club Helipad,7.109490756
+Vnukovo International Airport,Solntsevo Heliport,9.741729604
+Kazan International Airport,Karaishevo Airfield,7.975317725
+Gagarin International Airport,Dubki Airfield,10.64168911
+Ufa International Airport,Zabelskiy Airfield,27.07254475
+Kurumoch International Airport,Krasny Yar Airport,18.19391183
+Muan International Airport,Mokpo Air Base,25.84570139
+Jeju International Airport,Jeju  ROK Naval Air Facility,0.62668255
+Gimhae International Airport,Lazzi Hotel Heliport,6.503824207
+Incheon International Airport,Jangbong-ro Heliport,12.26651482
+Gimpo International Airport,C 193 Heliport,3.23342809
+Naha Airport / JASDF Naha Air Base,Yone Airfield,4.512963347
+Kadena Air Base,Lester Helo Pad Nº 2,3.862384672
+Ninoy Aquino International Airport,207th Tactical Helicopter Squadron Heliport,1.270036073
+Francisco Bangoy International Airport,Naval Station Felix Apolinario Heliport,3.287917196
+Mactan Cebu International Airport,Shangri-La Mactan Island Resort Heliport,4.45828088
+O.R. Tambo International Airport,Benoni Heliport,10.9952487
+Sir Seretse Khama International Airport,Gaborone Notwane Airport,14.28925835
+King Mswati III International Airport,Siteki Airport,25.76223868
+Navi Mumbai International Airport,Reliance Corporate Park Heliport,16.8355603
+Philip S. W. Goldson International Airport,Cisco Base Heliport,8.768391638
+Keflavik International Airport,Patterson Field,4.351380551
+Genoa Cristoforo Colombo Airport,Valerio Glorialanza Airfield,35.94080625
+Bologna Guglielmo Marconi Airport,Arcobaleno Airfield,5.573672184
+Verona Villafranca Valerio Catullo Airport,Verona-Boscomantico Airfield,9.133917845
+Venice Marco Polo Airport,Marcon Airfield,7.043364312
+Rome–Fiumicino Leonardo da Vinci International Airport,Capitalia Heliport,10.98254814
+Naples International Airport,Centro Volo Campania,12.51348019
+Pisa International Airport,San Rossore Helicopter Base,6.10311374
+"Florence Airport, Peretola",Helibase Pegaso 1 (Santa Maria Annunziata Hospital),11.88215394
+Ljubljana Jože Pučnik Airport,Kamnik - Dulnica Airfield,9.946219477
+Václav Havel Airport Prague,Predni Kopanina Heliport,3.705385862
+Ben Gurion International Airport,Sheba (Tel HaShomer) Medical Center,5.514623035
+Ramon International Airport,Aqaba King Hussein International Airport,12.83855859
+Malta International Airport,Marsa Airfield,2.409867057
+Vienna International Airport,Wien-Aspern ÖAMTC Heliport,13.14622176
+Albuquerque International Sunport,Milne Stadium Heliport,4.73496777
+Joint Base Andrews,MedStar Southern Maryland Hospital Center Heliport,7.034059788
+Hartsfield Jackson Atlanta International Airport,South Fulton Medical Center Heliport,4.771160151
+Austin Bergstrom International Airport,Tesla Giga Plant Heliport,5.323564491
+Bradley International Airport,Hamilton Standard Heliport,1.103473429
+Nashville International Airport,Ginny 'B' Heliport,4.079896338
+Logan International Airport,Cape Air Seaplanes on Boston Harbor Seaplane Base,1.810914736
+Buffalo Niagara International Airport,Erie County Medical Center Heliport,8.332443347
+Baltimore/Washington International Thurgood Marshall Airport,Maritime Institute Heliport,3.992966922
+Chhatrapati Shivaji International Airport,Mumbai University Heliport,2.67468159
+Rajkot International Airport,Rajkot Airport,27.82710645
+Bandaranaike International Colombo Airport,Dandugama Seaplane Base,8.20916794
+Mattala Rajapaksa International Airport,Weerawila Airport,12.72113834
+Phnom Penh International Airport,Techo International Airport (under construction),21.920669
+Siem Reap-Angkor International Airport,Siem Reap International Airport,44.60152759
+Sir Seewoosagur Ramgoolam International Airport,Skydive Austral Airstrip,34.07161906
+Kenneth Kaunda International Airport,Silver Rest Airport,10.19367088
+Roland Garros Airport,Uca Airfield,18.48871358
+Ivato Airport,Fihaonana Aerodrome,35.3676598
+Quatro de Fevereiro International Airport,Sinfo Heliport,7.32737684
+Lipetsk Air Base,Lipetsk Airport,9.797912484
+Beijing Capital International Airport,China Aviation Museum Airfield,22.46493259
+Beijing Daxing International Airport,Beijing Nanjiao Airport,4.250357507
+Hohhot Baita International Airport,Hohhot Shengle International Airport (under construction),46.07939529
+Tianjin Binhai International Airport,Hospital Helipad,32.93573581
+Taiyuan Wusu International Airport,Taiyuan Yaocheng Airport,32.51402818
+Guangzhou Baiyun International Airport,Old Guangzhou Baiyun International Airport,23.39503045
+Changsha Huanghua International Airport,Changsha Datuopu Airport / Changsha Air Base,29.04570808
+Guilin Liangjiang International Airport,Guilin Qifengling Airport,28.39546321
+Nanning Wuxu Airport,Xixiangtang Police Heliport,25.92486649
+Shenzhen Bao'an International Airport,China Resources Qianhai Center Tower 1 Helipad,14.51859545
+Zhengzhou Xinzheng International Airport,Zhengzhou Air Base,38.79392349
+Ezhou Huahu Airport,Paozhuwan Air Base,53.84878111
+Wuhan Tianhe International Airport,Wuhan Air Base,19.77799389
+Haikou Meilan International Airport,Haikou Dayingshan (Haikou City) Airport,14.97456624
+Sanya Phoenix International Airport,Sanya Tianya Heliport,0.641450713
+Pyongyang Sunan International Airport,Sunan-Up North Highway Strip Airfield,4.662995273
+Lanzhou Zhongchuan International Airport,Lanzhou City Airport,57.96477394
+Xi'an Xianyang International Airport,Xi'an Xiguan Airport,34.65471007
+Ulaanbaatar Chinggis Khaan International Airport,Buyant-Ukhaa International Airport,22.16970667
+Kunming Changshui International Airport,Kunming Wujiaba International Airport,23.47002874
+Xiamen Gaoqi International Airport,Xiamen Xiang'an Airport (under construction),22.83427625
+Nanchang Changbei International Airport,Nanchang Qingyunpu Airport,25.62612917
+Fuzhou Changle International Airport,Mawei Airfield,17.40410408
+Hangzhou Xiaoshan International Airport,Hangzhou Jianqiao Airport,21.14474569
+Jinan Yaoqiang International Airport,Jinan Qihe Air Base,52.23423679
+Ningbo Lishe International Airport,Ningbo Zhuangqiao Air Base,15.19215476
+Nanjing Lukou International Airport,Jiangning Tushan Air Base,26.39235729
+Shanghai Pudong International Airport,Shanghai Tangchen Heliport,23.34719929
+Qingdao Jiaodong International Airport,Jiaozhou Jiaocheng Air Base,6.571780138
+Shanghai Hongqiao International Airport,Shanghai Longhua Airport,11.90771614
+Wenzhou Longwan International Airport,Taizhou Luqiao Airport,91.75450322
+Yantai Penglai International Airport,Penglai Shahekou Airport,21.90384724
+Chongqing Jiangbei International Airport,Chongqing Baishiyi Air Base,37.19976785
+Guiyang Longdongbao International Airport,Guiyang Air Base,30.68908157
+Chengdu Tianfu International Airport,Chengdu Huaizhou Airport,41.43520768
+Chengdu Shuangliu International Airport,Chengdu Taipingsi Airport,8.490528099
+Almaty International Airport,Almaty North Airport,5.489378629
+Nursultan Nazarbayev International Airport,Romanovka Airfield,23.59851176
+Manas International Airport,Chatkel Agri Airport,16.05830593
+Heydar Aliyev International Airport,Zabrat Airport,6.683337714
+Zvartnots International Airport,Erebuni Airport,6.508345541
+Tbilisi International Airport,Tbilisi Soganlug Air Base,2.693918475
+Vladivostok International Airport,Ozyornye Klyuchi (Lake Springs) Airfield,3.159140279
+Cleveland Hopkins International Airport,Southwest General Hospital Heliport,4.764990474
+Charlotte Douglas International Airport,Meridian Corporate Center Heliport,2.640845357
+John Glenn Columbus International Airport,Mount Carmel East Hospital Heliport,4.701911908
+Cincinnati Northern Kentucky International Airport,Brown Heliport,6.703232693
+Ronald Reagan Washington National Airport,Bolling Air Force Base,2.231766134
+Denver International Airport,Greggs Nr 1 Airport,11.34894317
+Dallas Fort Worth International Airport,Baylor University Medical Center Grapevine Helipad,6.774580286
+Detroit Metropolitan Wayne County Airport,L & L Heliport,5.651973924
+Faro Airport,Hospital Distrital de Faro Heliport,3.458703636
+Madeira International Airport Cristiano Ronaldo,Dr. Nélio Mendonça Hospital Heliport,15.04280944
+João Paulo II Airport,Hospital do Divino Espirito Santo Heliport,2.306011721
+Francisco de Sá Carneiro Airport,Hospital Pedro Hispano heliport,7.623311054
+Humberto Delgado Airport (Lisbon Portela Airport),Hospital das Forças Armadas Heliport,3.643033597
+Sarajevo International Airport,Rajlovac Helicopter Base,5.471371529
+Bucharest Henri Coandă International Airport,General Inspectorate of Aviation Bucharest Heliport,7.564736427
+Geneva Cointrin International Airport,Geneva University Hospital Helipad,5.888286385
+Zürich Airport,Zürich Waid City Hospital Heliport,6.9605817
+Esenboğa International Airport,Turkey Air Traffic Control Center Helipad,1.113195097
+Antalya International Airport,Karpuzkaldıran Military Helipad,5.090624566
+Adnan Menderes International Airport,Gaziemir Air Base,2.976176258
+Dalaman International Airport,Fethiye Forest Management Directorate Heliport,33.37642093
+Çukurova International Airport,Adana Şakirpaşa Airport,21.23681039
+Milas Bodrum International Airport,Bodrum-Imsık Airport,12.29634561
+Istanbul Sabiha Gökçen International Airport,Emsey Hospital Helipad,3.308088504
+İstanbul Airport,İstanbul Hezarfen Airfield,23.91117507
+São Tomé International Airport,Roça Porto Alegre Airport,43.60525941
+Maputo Airport,Inhaca Airport,36.66298347
+Netaji Subhash Chandra Bose International Airport,Barrackpore Air Force Station,16.66679651
+Hazrat Shahjalal International Airport,Uttara Helipad,5.541644191
+Hong Kong International Airport,Sha Chau Helipad,4.83871085
+Indira Gandhi International Airport,Safdarjung Airport,11.09051092
+Macau International Airport,SkyTech Heliport,2.011878111
+Tribhuvan International Airport,Mountain Airport,33.83399044
+Kempegowda International Airport,Yelahanka Air Force Station,12.88667656
+Cochin International Airport,Amrita Heliport,17.03176713
+Manohar International Airport,Vagator Helipad,21.06998557
+Dabolim Airport,Raj Bhavan Heliport,9.609775778
+Rajiv Gandhi International Airport,Defence Research and Development Organization Helipad,13.70281169
+Chennai International Airport,Chennai Military Hospital Helipad,4.498122867
+Thiruvananthapuram International Airport,Varkala Helipad,36.82323899
