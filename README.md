@@ -7,8 +7,8 @@ This project analyzes airport data using **Microsoft Excel** & **Microsoft SQL S
 
 📂 Airport-Data-Analysis
 ```
-│── 📁 data/                     # Dataset storage
-│── 📁 sql_queries/              # SQL queries for analysis
+│── 📁 Dataset/                     # Dataset storage
+│── 📁 SQL Airport Analysis/     # SQL queries for analysis
 │── 📜 README.md                 # Project documentation
 ```
 
