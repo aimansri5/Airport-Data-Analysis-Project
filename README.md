@@ -37,7 +37,7 @@ Convert all text columns (e.g., airport_name, city, country_code) to UPPERCASE f
 
 2.	Exploratory Data Analysis (EDA) in Microsoft SQL Server Management Studio 20 (SSMS)
 
-All the SQL queries can be found here ([url](https://github.com/aimansri5/SQL/blob/main/SQL%20Airport%20Analysis.sql))
+  All the SQL queries can be found here ([url](https://github.com/aimansri5/SQL/blob/main/SQL%20Airport%20Analysis.sql))
 
 
 
