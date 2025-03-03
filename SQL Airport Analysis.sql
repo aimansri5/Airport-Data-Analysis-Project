@@ -1,7 +1,7 @@
 --Check total number of airports
 
 SELECT COUNT(*) AS total_airports 
-FROM airports_dataset
+FROM airports_dataset;
 
 
 --Find the Top 5 Countries with the Most Major Airports
