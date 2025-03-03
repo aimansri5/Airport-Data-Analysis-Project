@@ -1,17 +1,15 @@
 # Airport Data Analysis Project
 
 ## Project Overview
-This project analyzes airport data using **Microsoft Excel** & **Microsoft SQL Server Management Studio (SSMS 20)** and visualizes insights in **Power BI**. The dataset (`airports.xlsx`) contains details about global airports, including type, location, elevation, and scheduled services.
+This project analyzes airport data using **Microsoft Excel** & **Microsoft SQL Server Management Studio (SSMS 20)**. The dataset (`airports.xlsx`) contains details about global airports, including type, location, elevation, and scheduled services.
 
 ## 📂 Project Structure
 
 📂 Airport-Data-Analysis
 ```
 │── 📁 data/                     # Dataset storage
-│── 📁 sql_queries/              # SQL queries for database setup & analysis
-│── 📁 powerbi_dashboard/        # Power BI dashboard
+│── 📁 sql_queries/              # SQL queries for analysis
 │── 📜 README.md                 # Project documentation
-│── 📜 .gitignore                # Ignore unnecessary files
 ```
 
 ## 🛠️ Setup & Execution
@@ -35,3 +33,12 @@ Drop duplicate rows based on airport_id (ident), name, and location (latitude, l
 
 4. Standardize Text Formatting
 Convert all text columns (e.g., airport_name, city, country_code) to UPPERCASE for consistency.
+
+
+2.	Exploratory Data Analysis (EDA) in Microsoft SQL Server Management Studio 20 (SSMS)
+
+All the SQL queries can be found here ([url](https://github.com/aimansri5/SQL/blob/main/SQL%20Airport%20Analysis.sql))
+
+
+
+
